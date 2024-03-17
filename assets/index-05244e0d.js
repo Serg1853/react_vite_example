@@ -127,7 +127,7 @@ Error generating stack: `+o.message+`
   width: 40px;
   height: 40px;
   object-fit: cover;
-`,dg="/react_vite_example/assets/example-def0f7cb.png";function pg(){const[e,t]=P.useState(0),[n,r]=P.useState(0),[i,o]=P.useState(0),l=()=>{};return R.jsxs(R.Fragment,{children:[R.jsxs("div",{children:[R.jsx("h1",{children:"Please leave feedback"}),R.jsx("button",{type:"button",onClick:l,children:"Good"}),R.jsx("button",{type:"button",onClick:l,children:"Neutral"}),R.jsx("button",{type:"button",onClick:l,children:"Bad"})]}),R.jsxs("div",{children:[R.jsx("h2",{children:"Statistics"}),R.jsxs("p",{children:["Good: ",e]}),R.jsxs("p",{children:["Neutral: ",n]}),R.jsxs("p",{children:["Bad: ",i]})]})]})}const hg=()=>R.jsxs(ag,{children:[R.jsx(cg,{children:"First Page"}),R.jsx(pg,{}),R.jsx(fg,{src:dg,alt:"Example"})]}),mg=Me.div`
+`,dg="/react_vite_example/assets/example-def0f7cb.png";function pg(){const[e,t]=P.useState(0),[n,r]=P.useState(0),[i,o]=P.useState(0),l=()=>{};return R.jsxs(R.Fragment,{children:[R.jsxs("div",{children:[R.jsx("h1",{children:"Please leave feedback"}),R.jsx("button",{className:"button",type:"button",onClick:l,children:"Good"}),R.jsx("button",{type:"button",onClick:l,children:"Neutral"}),R.jsx("button",{type:"button",onClick:l,children:"Bad"})]}),R.jsxs("div",{children:[R.jsx("h2",{children:"Statistics"}),R.jsxs("p",{children:["Good: ",e]}),R.jsxs("p",{children:["Neutral: ",n]}),R.jsxs("p",{children:["Bad: ",i]})]})]})}const hg=()=>R.jsxs(ag,{children:[R.jsx(cg,{children:"First Page"}),R.jsx(pg,{}),R.jsx(fg,{src:dg,alt:"Example"})]}),mg=Me.div`
   display: flex;
   justify-content: center;
   align-items: center;
