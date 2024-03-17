@@ -10,7 +10,7 @@ function Feedback() {
     <>
       <div>
         <h1>Please leave feedback</h1>
-        <button type="button" onClick={handleChange}>
+        <button className="button" type="button" onClick={handleChange}>
           Good
         </button>
         <button type="button" onClick={handleChange}>
